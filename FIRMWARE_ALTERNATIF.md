@@ -39,6 +39,4 @@ Cette solution est valable pour les firmwares:
 5. Sur le Flipper, aller dans le browser (Bas, Gauche)
 6. Aller dans le dosier `update`, puis dans le dossier que vous venez de copier, chercher et lancer le fichier `update`
 
-<video width="320" height="240" controls>
-  <source src="img/update_firmware.mp4" type="video/mp4">
-</video>
+![](img/update_firmware.gif)
