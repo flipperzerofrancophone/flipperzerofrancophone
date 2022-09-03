@@ -22,7 +22,7 @@ Cette solution est valable pour les firmwares:
 * [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/releases)
 * Pour les autres, il faudra vérifier
 
-**DANS TOUS LES CAS, nous recommandons de bien lire (en anglais) les préconisations de mainteneurs des firwmares.**
+**DANS TOUS LES CAS, nous recommandons de bien lire (en anglais) les préconisations de mainteneurs des firmwares.**
 
 ---
 
