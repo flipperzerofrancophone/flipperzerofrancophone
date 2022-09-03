@@ -9,6 +9,11 @@ Bienvenue sur la page principale de la communauté francophone de Flipper Zero.
 
 * ![](img/telegram_20x20.png) Nous sommes présents sur [Telegram](https://t.me/flipper_zero_french)
 
+
+## Howto
+
+* [Je veux utiliser un firwmare alternatif](FIRMWARE_ALTERNATIF.md)
+
 ## Nos dépots
 
 Les dépots propres à la communauté francophone:
